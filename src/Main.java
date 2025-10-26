@@ -28,8 +28,8 @@ public class Main {
     private static void checkAnagram() {
         //        Group anagrams together
 //        Input: ["bat", "tab", "eat", "tea", "ate"] → Output: [[bat, tab], [eat, tea, ate]]
-        String s1 = "abhi";
-        String s2 = "ihba";
+        String s1 = "vishal";
+        String s2 = "shalvi";
 
         if (s1.length() != s2.length()) {
             System.out.println("Two strings are not same length so cannot form anagrams");
